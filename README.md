@@ -6,7 +6,7 @@
 A fully generic, Home-Assistant-driven dashboard firmware for the [GeekMagic SmallTV Ultra](https://www.geekmagic.cc/) (ST7789V, 240×240), built on [ESPHome](https://esphome.io/). Point it at your own sensors once, then control everything else — rotation speed, which pages are shown, burn-in protection — live from Home Assistant, no reflashing required.
 
 <p align="center">
-  <!-- Drop a photo/GIF of your device here, e.g. docs/preview.gif -->
+  <img src="demo.gif" alt="GeekMagic SmallTV Ultra cycling through the clock/weather, solar, alarm and lights pages" width="300"><br>
   <em>240×240 IPS panel · clock & weather · solar/energy dashboards · alarm status · lights status</em>
 </p>
 
